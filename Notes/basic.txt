@@ -1,0 +1,30 @@
+About Pandas :
+
+-> In Python 'pandas' refers to the pandas library used for working with data sets.<br>
+
+-> It is a popular open source used for data manipulation and analysis tools.<br>
+
+-> Pandas was made so that we can work with data effectively.<br>
+
+-> It provides data structures and functions designed to make working with structured data in tabular
+   form so that it can work easily and effectively.
+
+-> Pandas introduces two primary data structures:-
+   
+   1. Series => A serie is a 1-D labeled array that can hold any data type.
+
+                Series is a single column in a table, which is why considered 1-D.
+
+   2. Dataframe => A dataframe is a multi-dimentional labeled data structure that consists of columns,
+                   each of which can hold different data type.
+
+                   The representation of data is in tabular form, similar to a spreadsheet or SQL table.
+
+-> Pandas is a wide range functionalities of data manipulation and analysis including data cleaning, 
+   data filtering and more.
+
+-> Pandas is a base of Data Science.
+
+What is CSV? :
+
+-> 
