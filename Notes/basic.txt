@@ -25,3 +25,13 @@ About Pandas :
 
 -> Pandas is a base of Data Science.
 
+History :
+
+-> Pandas was created by Wes Mckinney in 2008.
+
+-> The development of pandas was motivated by the need for flexible and efficient tool to handle and
+   analysis structured data in Python.
+
+How can we use Pandas :
+
+-> Importing Pandas: import pandas as pd
