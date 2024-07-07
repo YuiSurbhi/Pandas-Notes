@@ -1,0 +1,13 @@
+What is CSV? :
+
+-> CSV stands for (Comman Separated Value).
+
+-> A CSV file is a plain text file that stores tabular data(data in the form of rows and columns)
+   in a separate format.
+
+-> In CSV each line represents a row of data, and the value within each rows are separated by commas,
+   semicolon or tabs.
+
+-> Each line represents a record, and each value represents a column of record.
+
+-> Pandas library provides functions to read and write CSV files.
