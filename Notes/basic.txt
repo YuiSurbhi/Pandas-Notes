@@ -25,6 +25,3 @@ About Pandas :
 
 -> Pandas is a base of Data Science.
 
-What is CSV? :
-
--> 
