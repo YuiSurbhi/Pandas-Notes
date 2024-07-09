@@ -1,10 +1,10 @@
 About Pandas :
 
--> In Python 'pandas' refers to the pandas library used for working with data sets.<br>
+-> In Python 'pandas' refers to the pandas library used for working with data sets.
 
--> It is a popular open source used for data manipulation and analysis tools.<br>
+-> It is a popular open source used for data manipulation and analysis tools
 
--> Pandas was made so that we can work with data effectively.<br>
+-> Pandas was made so that we can work with data effectively.
 
 -> It provides data structures and functions designed to make working with structured data in tabular
    form so that it can work easily and effectively.
