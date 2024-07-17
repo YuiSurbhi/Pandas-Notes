@@ -18,11 +18,11 @@
                Series is a single column in a table, which is why considered 1-D.<br>
 
   2. **Dataframe:** A dataframe is a multi-dimensional labeled data structure that consists of columns,
-                   each of which can hold different data type. 📉<br>
+                   each of which can hold different data types. 📉<br>
                   The representation of data is in tabular form, similar to a spreadsheet or SQL table.<br>
 
-▫️ Pandas is a wide range functionalities of data manipulation and analysis including data cleaning, 
-   data filtering and more.<br>
+▫️ Pandas have a wide range functionalities of data manipulation and analysis including data cleaning, 
+   data filtering, and more.<br>
 
 ▫️ Pandas is a base of Data Science.<br>
 
@@ -30,19 +30,19 @@
 
 ▫️ Pandas was created by Wes Mckinney in 2008.<br>
 
-▫️ The development of pandas was motivated by the need for flexible and efficient tool to handle and
+▫️ The development of pandas was motivated by the need for flexible and efficient tools to handle and
    analysis structured data in Python.<br>
 
 ## Installation ⚙️
 
 ▪️ If <ins>Python</ins> and <ins>PIP</ins> are already installed on your system, then installing Pandas is easy<br>
-▪️ Install it using this command :<br>
+▪️ Install it using this command:<br>
 
      pip install pandas
 
 ## 🔹 How can we use Pandas :
 
-▪️ Once Pandas is installed, import it in your applications by adding the <code>import</code> keyword.<br>
+▪️ Once Pandas is installed, import it into your applications by adding the <code>import</code> keyword.<br>
 ▪️ Pandas is imported under <code>pd</code> alias.<br>
 ▪️ This alias is created with the help of <code>as</code> keyword while importing.<br>
 
