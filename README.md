@@ -2,7 +2,7 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://pandas.pydata.org/static/img/pandas_white.svg">
-  <img alt="Pandas Logo" src="https://pandas.pydata.org/static/img/pandas.svg">
+  <img alt="Pandas Logo" src="https://pandas.pydata.org/static/img/pandas.svg" width="300">
 </picture>
 
 **Pandas:** Simplifying data analysis in Python! Pandas is a versatile library that provides intuitive data structures and powerful tools for data manipulation and analysis. It's essential for anyone working with structured data, offering seamless operations from data cleaning to exploration and visualization. Dive into data effortlessly with Pandas! 📊💡<br>
