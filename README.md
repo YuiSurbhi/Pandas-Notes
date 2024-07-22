@@ -1,7 +1,11 @@
 # Pandas-Notes
-## 👉 About Pandas :
 
-🐼 **Pandas:** Simplifying data analysis in Python! Pandas is a versatile library that provides intuitive data structures and powerful tools for data manipulation and analysis. It's essential for anyone working with structured data, offering seamless operations from data cleaning to exploration and visualization. Dive into data effortlessly with Pandas! 📊💡<br>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pandas.pydata.org/static/img/pandas_white.svg">
+  <img alt="Pandas Logo" src="https://pandas.pydata.org/static/img/pandas.svg">
+</picture>
+
+**Pandas:** Simplifying data analysis in Python! Pandas is a versatile library that provides intuitive data structures and powerful tools for data manipulation and analysis. It's essential for anyone working with structured data, offering seamless operations from data cleaning to exploration and visualization. Dive into data effortlessly with Pandas! 📊💡<br>
 
 ▫️ In Python 'pandas' refers to the pandas library used for working with data sets.<br>
 
@@ -26,7 +30,7 @@
 
 ▫️ Pandas is a base of Data Science.<br>
 
-## 🔹 History :
+## History 📜:
 
 ▫️ Pandas was created by Wes Mckinney in 2008.<br>
 
@@ -40,7 +44,7 @@
 
      pip install pandas
 
-## 🔹 How can we use Pandas :
+## How can we use Pandas 📋:
 
 ▪️ Once Pandas is installed, import it into your applications by adding the <code>import</code> keyword.<br>
 ▪️ Pandas is imported under <code>pd</code> alias.<br>
