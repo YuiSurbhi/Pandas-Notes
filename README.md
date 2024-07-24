@@ -32,7 +32,7 @@
 
 ## History 📜:
 
-▫️ Pandas was created by Wes Mckinney in 2008.<br>
+▫️ Pandas was created by <ins>Wes Mckinney</ins> in 2008.<br>
 
 ▫️ The development of pandas was motivated by the need for flexible and efficient tools to handle and
    analysis structured data in Python.<br>
